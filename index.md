@@ -21,9 +21,11 @@ Soy una persona responsable y trabajadora que le gusta tener todo en orden. Soy 
 
 ### Formacion
 ```Markdown
-- 2021-2022 - Ciclo medio Sistemas Microinformaticos y redes
+- 2021-2022
+Ciclo medio Sistemas Microinformaticos y redes
 En la actualidad estoy cursando el segundo curso de Sistemas Microinormaticos y redes en IFP Hospitalet. Tengo habilidad con word, excel y access. Tambien tengo conocimiento de Hardware
 
-- 2007-2015 - Educacion Primaria
+- 2007-2015
+Educacion Primaria
 Cursé mi educacion primaria en CEIP Progrés (Badalona)
 ```
