@@ -36,6 +36,6 @@ Cursé mi educacion primaria en CEIP Progrés (Badalona)
 
 
 ### Informacíon de contacto
-**Móvil**: +34 866743986
-**Correo Electrónico**: pepitafplores@gmail.com
-**Dirección** 1120 Westchester Pl, Los Angeles, CA 90019, Estados Unidos
+- **Móvil**: +34 866743986
+- **Correo Electrónico**: pepitafplores@gmail.com
+- **Dirección** 1120 Westchester Pl, Los Angeles, CA 90019, Estados Unidos
