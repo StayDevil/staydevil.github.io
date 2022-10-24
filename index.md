@@ -1,12 +1,12 @@
-# CURRICULUM
+
 ![Image](Screenshot_1.png)
 
 
 
-## Alba Cañellas
+# Alba Cañellas
 
 
-### Presentación
+## Presentación
 Soy una persona responsable y trabajadora que le gusta tener todo en orden. Soy perfeccionista y me gusta aprender cosas nuevas cada dia. Me intereso por todos tipos de sectores. Se trabajar en equipos y me considero una buena lider.
 
 
