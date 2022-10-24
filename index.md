@@ -1,5 +1,5 @@
 # CURRICULUM!
-[Link](url) and ![Image](src)
+![Image](Screenshot_1.png)
 
 
 ## Alba Cañellas
