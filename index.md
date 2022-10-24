@@ -1,5 +1,6 @@
 # CURRICULUM!
-[image](https://user-images.githubusercontent.com/116159731/197497772-4da27884-6b47-40d1-a261-68fc48563977.png)
+
+
 
 ## Alba Cañellas
 
