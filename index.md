@@ -23,7 +23,7 @@ Soy una persona responsable y trabajadora que le gusta tener todo en orden. Soy 
 3. **Inglés** Desde los 4 años estoy en clases de ingles, es un idiota que aun no dominando por completo, puedo llegar a hablarlo con fluideza y lo entiendo a la perfección.
 
 
-### Formacion
+### Formación
 - 2021-2022
 
 _Ciclo medio Sistemas Microinformaticos y redes_:
@@ -34,3 +34,8 @@ En la actualidad estoy cursando el segundo curso de Sistemas Microinormaticos y 
 _Educacion Primaria_:
 Cursé mi educacion primaria en CEIP Progrés (Badalona)
 
+
+### Informacíon de contacto
+**Móvil**: +34 866743986
+**Correo Electrónico**: pepitafplores@gmail.com
+**Dirección** 1120 Westchester Pl, Los Angeles, CA 90019, Estados Unidos
